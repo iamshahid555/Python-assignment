@@ -9,4 +9,4 @@ A Python application for data mapping and regression-based function approximatio
 - Interactive Bokeh visualizations
 
 ## Author
-Shahid Ahmed
+Mohammad Shahid Ahmed
